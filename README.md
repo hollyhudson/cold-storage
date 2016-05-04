@@ -1,0 +1,4 @@
+cold-storage
+============
+
+Pantry manager.
